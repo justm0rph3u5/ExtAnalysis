@@ -1,4 +1,4 @@
-FROM alpine:3.9
+FROM alpine:3.18.6
 LABEL MAINTAINER furkan.sayim@yandex.com
 LABEL name ExtAnalysis
 LABEL src "https://github.com/Tuhinshubhra/ExtAnalysis"
